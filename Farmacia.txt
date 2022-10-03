@@ -1,0 +1,30 @@
+01/09/22;CLARAFARM;Rua Lauro Muller- próx. Del. Polícia Civil; 3232
+02/09/22;FARMACIA FAMILIAR;Av. Bayer Filho, 1150;3263-6297
+03/09/22;TIJUFARMA;Av. Bayer Filho,777(próximo Superm. Koch);(48) 3263-4521
+04/09/22;Drogaria Joaia Ltda ME;Av. Bayer Filho, (próximo Compre Fácil);3232
+05/09/22;FARMAGNUS;Av. Hercilio Luz;3232
+06/09/22;SESI FARMÁCIA;Av. Bayer Filho, próx. Hospital São José;3232
+07/09/22;FARMAIS DO CENTRO;Av. Bayer Filho (frente 24 horas);(48) 3263-1450
+08/09/22;Drogaria Vida Med;Rua 13 de maio, 1899 - Universitário;3232
+09/09/22;CINTIAFARMA;Av. Coleira, 292 - Praça (frente Mat. Const. Espindula);3232
+10/09/22;DROGARIA D+ MAIS;Av. Bayer Filho (Hipermercado Koch);3232
+11/09/22;CLARAFARM;Rua Lauro Muller- próx. Del. Polícia Civil;3232
+12/09/22;FARMACIA FAMILIAR;Av. Bayer Filho, 1150;3263-6297
+13/09/22;TIJUFARMA;Av. Bayer Filho,777(próximo Superm. Koch);(48) 3263-4521
+14/09/22;Drogaria Joaia Ltda ME;Av. Bayer Filho, (próximo Compre Fácil);3232
+15/09/22;FARMAGNUS;Av. Hercilio Luz;3232
+16/09/22;SESI FARMÁCIA;Av. Bayer Filho, próx. Hospital São José;3232
+17/09/22;FARMAIS DO CENTRO;Av. Bayer Filho (frente 24 horas);(48) 3263-1450
+18/09/22;Drogaria Vida Med;Rua 13 de maio, 1899 - Universitário;3232
+19/09/22;CINTIAFARMA;Av. Coleira, 292 - Praça (frente Mat. Const. Espindula);3232
+20/09/22;DROGARIA D+ MAIS;Av. Bayer Filho (Hipermercado Koch);3232
+21/09/22;CLARAFARM;Rua Lauro Muller- próx. Del. Polícia Civil;3232
+22/09/22;FARMACIA FAMILIAR;Av. Bayer Filho, 1150;3263-6297
+23/09/22;TIJUFARMA;Av. Bayer Filho,777(próximo Superm. Koch);(48) 3263-4521
+24/09/22;Drogaria Joaia Ltda ME;Av. Bayer Filho, (próximo Compre Fácil);3232
+25/09/22;FARMAGNUS;Av. Hercilio Luz;3232
+26/09/22;SESI FARMÁCIA;Av. Bayer Filho, próx. Hospital São José;3232
+27/09/22;FARMAIS DO CENTRO;Av. Bayer Filho (frente 24 horas);(48) 3263-1450
+28/09/22;Drogaria Vida Med;Rua 13 de maio, 1899 - Universitário;3232
+29/09/22;CINTIAFARMA;Av. Coleira, 292 - Praça (frente Mat. Const. Espindula);3232
+30/09/22;DROGARIA D+ MAIS;Av. Bayer Filho (Hipermercado Koch);3232
